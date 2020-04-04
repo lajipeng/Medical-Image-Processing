@@ -1,0 +1,27 @@
+
+elastix is started at Mon Aug  5 16:41:16 2019.
+
+which elastix:   elastix
+elastix runs at: LAPTOP-VBORPN5F
+  Windows  Personal (x64),  (Build 9200)
+  with 3676 MB memory, and 2 cores @ 2400 MHz.
+-------------------------------------------------------------------------
+
+Running elastix with parameter file 0: "parameterFile.txt".
+
+Current time: Mon Aug  5 16:41:16 2019.
+Reading the elastix parameters from file ...
+
+ERROR: when reading the parameter file:
+
+itk::ExceptionObject (0000004EB09CEE38)
+Location: "unknown" 
+File: D:\toolkits\elastix\elastix_4.9.0\elastix\Common\ParameterFileParser\itkParameterFileParser.cxx
+Line: 149
+Description: itk::ERROR: ParameterFileParser(000001B8A2B3E960): ERROR: the file parameterFile.txt does not exist.
+
+
+ERROR: Something went wrong during initialization of the configuration object.
+ERROR:
+The configuration object has not been initialized.
+Errors occurred!
